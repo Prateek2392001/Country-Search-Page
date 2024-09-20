@@ -92,4 +92,4 @@ function onChangeSearchInput(event) {
 
 
 getCountries();
-searchInputEl.addEventListener("keyup", onChangeSearchInput);
+searchInputEl.addEventListener("keyup", onChangeSearchInput);                                           
